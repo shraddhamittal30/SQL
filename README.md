@@ -1,3 +1,3 @@
 # SQL
 SQL learnings
-Author - Shraddha Mittal
+Author - Shraddha Mittal SQL
